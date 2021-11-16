@@ -1,0 +1,15 @@
+  .card {
+    display: block;
+    justify-content: space-around;
+    height: auto;
+    padding: 25px;
+    margin: 50px;
+    border-radius: 5px;
+     background-image: linear-gradient(to right, #33ccff, #ff99cc );
+    box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+  }
+  .image {
+    object-fit: cover; 
+    object-position: center;
+    border-radius: 50%;
+  }
